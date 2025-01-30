@@ -16,7 +16,7 @@
 
 I'm a Master’s student in Data Analytics Engineering at Northeastern University, College of Engineering**, passionate about turning raw data into meaningful insights. I thrive on solving complex problems using machine learning, automation, and cloud computing. Whether it's optimizing data pipelines, building predictive models, or uncovering hidden patterns, I'm always eager to push boundaries and create impactful solutions. Let's build something amazing with data! ✨
 
----
+
 
 
 <h3 align="left">Connect with me:</h3>
