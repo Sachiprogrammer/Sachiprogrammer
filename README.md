@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachi Patel a Data Engineer</h1>
+<h1 align="center">Hi 👋, I'm Sachi Patel </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachiprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="sachiprogrammer" /> </p>
 
 - 🌱 I’m currently learning **GEN-AI**
