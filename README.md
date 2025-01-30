@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I love to watch Anime. Favorite character luffy.**
   
-#🌟 About Me
+🌟 About Me
 
 
 🚀 Data Enthusiast | AI Innovator | Problem Solver
