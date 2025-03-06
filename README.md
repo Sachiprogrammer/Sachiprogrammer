@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **patel.sachih@northeastern.edu**
 
-- 📄 Know about my experiences [Resume](https://shorturl.at/xFJn3)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gyX7nTc2LSDA8bxKAIfVAOAuok2t04Xl/view?usp=sharing)
 
 - ⚡ Fun fact **I love to watch Anime. Favorite character luffy.**
   
