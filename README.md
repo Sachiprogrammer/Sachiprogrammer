@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachi Patel </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachiprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="sachiprogrammer" /> </p>
 
-- 🌱 I’m currently working with new project **my personal voice assistant** Let me know want to talk about it.
+- 🌱 I’m currently working with new project **my personal voice assistant**, Let me know want to talk about it.
 
 - 📫 How to reach me **patel.sachih@northeastern.edu**
 
