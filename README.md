@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sachi Patel </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachiprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="sachiprogrammer" /> </p>
 
-- 🌱 I’m currently working with new project **my personal voice assistant**, Let me know want to talk about it.
+- 🌱 I’m currently working with new project **Voicechoir with halsey burgund (MIT)**, Let me know want to talk about it.
 
-- 📫 How to reach me **patel.sachih@northeastern.edu**
+- 📫 How to reach me **sachi31200@gmail.com**
 
 - 📄 Know about my experiences 
 
-- ⚡ Fun fact **I love to watch Anime. Favorite character luffy.**
+- ⚡ Fun fact **I love to watch Anime. Favorite Solo Leveling.**
   
 🌟 About Me
 
